@@ -2,7 +2,7 @@
       
 <div class="excerpt">
         
-	<span class="title">{{ page.content | reading_time_as_i }}</span>
+<!-- 	<span class="title">{{ page.content | reading_time_as_i }}</span> -->
 
 	{% if page.title %}
 
@@ -16,7 +16,7 @@
 
 	<p>{{ page.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 
-	{% if page.date or page.categories %}
+<!-- 	{% if page.date or page.categories %}
 
 		{% if page.type == 'post' %}
 			<span class="meta">Published {{ page.date | date: '%b %-d, %Y' | prepend: '<b>' | append: '</b>' }} {{ page.categories | join: ', ' | prepend: 'in <b>' | append: '</b>' }}</span>
@@ -24,7 +24,7 @@
 			<span class="meta">Published {{ page.date | date: '%b %-d, %Y' | prepend: '<b>' | append: '</b>' }}</span>
 		{% endif %}
 	
-	{% endif %}
+	{% endif %} -->
 
 </div>
 
