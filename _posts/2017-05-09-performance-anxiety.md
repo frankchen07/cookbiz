@@ -9,7 +9,7 @@ date:           2017-05-08
 excerpt:        <i>Is performance anxiety in the kitchen hampering your weeknight dinners?</i>
 categories:     
 gradient:       5
-image:          header-3.jpg
+image:          food-example-5.jpg
 details:        false
 
 author:         Frank
@@ -36,7 +36,6 @@ To some extent, that colors our expectations of ourselves. We all eat out at del
 One of the more dangerous things to do when starting out as a blooming home cook is to compare one's own result to some professionally photographed recipe result, to something you ate at a restaurant last week, or to that fluidly-moving chef above. Leave professional pictures, complex recipes, and super-fluid movements for the professional cook (for now). We're just trying to have a nice, home cooked weeknight meal. 
 
 To hammer home that point, understand that you most likely do not have superb photo-lighting or extreme pixel-discipline to make your home-cooked dishes look like they're fucking glistening off the plate. Also you don't attain a serious level of heat in a home kitchen stove, compared to a commercial stove - that's also a constraint. Also, I forgot to mention that you don't have a meat cook, a vegetable cook, fish station, and two people plating for you. Oh, and, all of these people have had 5+ years of experience working 364 days a year (minus Christmas), 16 hours a day, burning the hairs of their arms off. 
-
 Your purpose and direction in YOUR kitchen at this very moment, is different. Take your current skill level and do what you can in the time period alloted. No one starts off as a hyper proficient cook. Most start off a little clumsy, they cut themselves, burn some food, under cook the meat, and obliterate the vegetables. Your first couple meals will be okay - decent and good enough to nosh on, and that, for the time being, is your bar. 
 
 **The point of all that writing, and what you should come away with is: get into the correct head space. Be open to yourself.** You're not lowering standards; you are setting no expectations, seeing where things land, and looking up from there. There's a place in the kitchen for everyone - take action rather than letting the extremes creep into your mind.
@@ -49,11 +48,11 @@ Look at that, the bar just got higher.
 
 I don't berate myself for mistakes, nor do I distrust my own sense of taste. Nor should you. You taste what you taste, not what you think others want you to taste. This is how you develop a palate, a style, that "feeling" in cooking. You trust yourself. If it's bitter or too salty, you will know. If not now, then later.
 
-**Continually raising the bar means working on your skills, one at a time.** When you become a really good cook, it's almost like conducting an orchestra. You've got the timing, the methods and manipulations of heat, the precise and quick knife work, the searing, the creation and layering of flavor, and the balance of taste at the end. However, it doesn't matter until it becomes a part of you, which means, a little bit of work everyday.
+Continually raising the bar means working on your skills, one at a time. When you become a really good cook, it's almost like conducting an orchestra. You've got the timing, the methods and manipulations of heat, the precise and quick knife work, the searing, the creation and layering of flavor, and the balance of taste at the end. However, it doesn't matter until it becomes a part of you, which means, a little bit of work everyday.
 
-**Every time you cook, have in mind one concept that you want to overcome.** Is it curling of the fingers while chopping really fast? Getting the seasoning just right for one dish? Steaming to perfection? Do it once, and you know you can do it again. Combined with that fine observational sense of yours, and you're already on your way. You can always build in more complexity later. When things are simple and directional, it's clear what you're working on and what things should taste like. There's nothing to hide behind. 
+**Every time you cook, have in mind one concept that you want to focus on.** Is it curling of the fingers while chopping really fast? Getting the seasoning just right for one dish? Steaming to perfection? Do it once, and you know you can do it again. Combined with that fine observational sense of yours, and you're already on your way. You can always build in more complexity later. When things are simple and directional, it's clear what you're working on and what things should taste like. There's nothing to hide behind. 
 
-Three concepts for you:
+**Three concepts for you:**
 
 1. Get into the right mental space. 
 2. Be agnostic in your observations. Failure is feedback.

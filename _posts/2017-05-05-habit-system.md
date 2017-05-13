@@ -9,7 +9,7 @@ date:           2017-05-08
 excerpt:        <i>Have you set up a system for developing your cooking habit?</i>
 categories:     
 gradient:       5
-image:          header-3.jpg
+image:          food-example-4.jpg
 details:        false
 
 author:         Frank
@@ -51,4 +51,4 @@ Time yourself. I gather it should take less than 1-2 minutes to perform. Do you 
 
 **Write down the same steps that you'll repeat in the kitchen that will consistently be easy to initiate in less than a minute.** You can even hack it and leave your pans and cutting materials out. Don't even put them away. That means you're ready to meal up at any time. 
 
-Write out your process. Memorize it. Meal up.
+**Write out your process. Memorize it. Meal up.**

@@ -81,7 +81,7 @@ input[type="button"], input[type="submit"] {
     border: none;
     color: white;
     font-weight: 600;
-    background: #eb2344;
+    background: #000000; /*#eb2344;*/
     padding: 12px 8px; }
 
 input[type="button"]:hover, input[type="submit"]:hover { opacity: 0.65 }
@@ -148,7 +148,7 @@ h5 {
         position: absolute;
         left: 0;
         bottom: -15px;
-        background: #eb2344; }
+        background: #000000; /*#eb2344;*/ }
 
 .more {
     display: inline-block;
@@ -253,7 +253,7 @@ body > header {
         display: block;
         padding: 0 0 0 43px;
         left: 0;
-        font-size: 1rem;
+        font-size: 1.5rem;
         font-weight: 600; }
 
     body > header .logo:after {
@@ -294,7 +294,7 @@ body > header {
 
                 body > header nav ul li a:hover {
                     position: relative;
-                    color: #eb2344;
+                    color: #000000; /*#eb2344;*/
                     opacity: 1; }
 
                 body > header nav ul li a:hover:after {
@@ -461,7 +461,7 @@ body > header {
             position: absolute;
             left: 0;
             bottom: -11px;
-            background: #eb2344; }
+            background: #000000; /*#eb2344;*/ }
 
         .content article .body .media .caption a { color: #4b505a }
 
@@ -650,7 +650,7 @@ body > footer {
         position: absolute;
         left: 0;
         top: -15px;
-        background: #eb2344; }
+        background: #000000; /*#eb2344;*/ }
 
     body > footer .copyright a { margin-left: 6px }
 

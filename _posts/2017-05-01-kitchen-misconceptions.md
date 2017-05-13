@@ -9,7 +9,7 @@ date:   		2017-05-08
 excerpt: 		<i>Are your kitchen misconceptions holding you back from a quick delicious dinner?</i>
 categories:		
 gradient: 		5
-image: 			header-3.jpg
+image: 			food-example-1.jpg
 details:		false
 
 author: 		Frank
