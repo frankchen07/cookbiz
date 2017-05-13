@@ -6,7 +6,7 @@ type:			page
 navigation: 	true
 
 date:   		
-excerpt: 		Build skills, day by day, for confidence in the kitchen.
+excerpt: 		
 gradient: 		5
 image: 			food-example-2.jpg
 
