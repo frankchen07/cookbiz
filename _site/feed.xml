@@ -3,8 +3,8 @@
   <channel>
     <title>CookBiz!</title>
     <description></description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>/cookbiz</link>
+    <atom:link href="/cookbiz/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Kitchen Anxiety</title>
@@ -44,8 +44,8 @@ Your purpose and direction in YOUR kitchen at this very moment, is different. Ta
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 08 May 2017 00:00:00 -0700</pubDate>
-        <link>/2017/05/08/performance-anxiety.html</link>
-        <guid isPermaLink="true">/2017/05/08/performance-anxiety.html</guid>
+        <link>/cookbiz/2017/05/08/kitchen-anxiety.html</link>
+        <guid isPermaLink="true">/cookbiz/2017/05/08/kitchen-anxiety.html</guid>
       </item>
     
       <item>
@@ -81,8 +81,8 @@ Your purpose and direction in YOUR kitchen at this very moment, is different. Ta
 &lt;p&gt;&lt;strong&gt;Write out your process. Memorize it. Meal up.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 May 2017 00:00:00 -0700</pubDate>
-        <link>/2017/05/08/habit-system.html</link>
-        <guid isPermaLink="true">/2017/05/08/habit-system.html</guid>
+        <link>/cookbiz/2017/05/08/your-brain-on-cooking.html</link>
+        <guid isPermaLink="true">/cookbiz/2017/05/08/your-brain-on-cooking.html</guid>
       </item>
     
       <item>
@@ -120,9 +120,9 @@ Your purpose and direction in YOUR kitchen at this very moment, is different. Ta
 
 &lt;p&gt;Sure, you can make the argument that 2-3 minutes could be spent on the phone ordering delivery and instead use your resources (read: money) to preserve your time. You get 20-25 minutes back if you don’t go out and pick anything up. Twenty minutes is twenty minutes. If you could “order” twenty minutes, would you? Probably. Whether you love cooking or hate it, if you use twenty minutes to cook, you’ve used twenty minutes. Granted, twenty minutes is not alot of time - it’s about 2% of your waking day.&lt;/p&gt;
 
-&lt;p&gt;I try and understand when people casually throw out “well, I just don’t have time to cook.” What I really hear is, “I don’t want to cook because I’d rather use my time to do [other stuff].” Earlier, we talked about cooking as a voluntary decision. The decision is either highly manual (“what should I do tonight”), or the decision-maker (you) has outsourced the decision to an automatic “no” or “yes” given a set of circumstances. In less fancy language it means, set up some kind of system that makes it an easy “yes, I’m cookin’ tonight!”&lt;/p&gt;
+&lt;p&gt;I try and understand when people casually throw out “well, I just don’t have time to cook.” What I really hear is, “I don’t want to cook because I’d rather use my time to do [other stuff].” Earlier, we talked about cooking as a voluntary decision. The decision is either highly manual (“what should I do tonight”), or the decision-maker (you) has outsourced the decision to an automatic “no” or “yes” given a set of circumstances. In less fancy language it means, you’ve set up some kind of system (mental or physical) that makes it an easy “yes, I’m cookin’ tonight!”&lt;/p&gt;
 
-&lt;p&gt;Which brings us to our first misconception. &lt;strong&gt;Cooking can take a long time, but it doesn’t have to - in fact, it can be as fast as ordering out.&lt;/strong&gt; Say it out loud, because you don’t hear that very often.&lt;/p&gt;
+&lt;p&gt;That brings us to our first misconception. &lt;strong&gt;Cooking can take a long time, but it doesn’t have to - in fact, it can be as fast as ordering out.&lt;/strong&gt; Say it out loud, because you don’t hear that very often.&lt;/p&gt;
 
 &lt;p&gt;Let’s step into the kitchen. To make cooking work on a weeknight, three things need to exist:&lt;/p&gt;
 
@@ -182,8 +182,8 @@ Your purpose and direction in YOUR kitchen at this very moment, is different. Ta
 &lt;p&gt;&lt;strong&gt;Give weeknight dinners another chance. Once, twice a week to start.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 May 2017 00:00:00 -0700</pubDate>
-        <link>/2017/05/08/kitchen-misconceptions.html</link>
-        <guid isPermaLink="true">/2017/05/08/kitchen-misconceptions.html</guid>
+        <link>/cookbiz/2017/05/08/pesky-kitchen-misconceptions.html</link>
+        <guid isPermaLink="true">/cookbiz/2017/05/08/pesky-kitchen-misconceptions.html</guid>
       </item>
     
   </channel>
